@@ -1,4 +1,5 @@
 # AI-Commit-Vibe 🚀
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A lightweight CLI tool that uses **Gemini 2.5 Flash** to generate concise **Conventional Commit** messages based on your staged changes.
 
@@ -23,7 +24,7 @@ Example output:
 ## 📦 Installation
 Install directly from GitHub using pip:
 ```bash
-pip install git+https://github.com/YOUR_USERNAME/ai-commit-vibe.git
+pip install git+https://github.com/nex124/AI-Commit-Vibe.git
 ```
 
 ## 🔑 Setup

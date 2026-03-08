@@ -28,10 +28,14 @@ pip install git+https://github.com/YOUR_USERNAME/ai-commit-vibe.git
 You need a Google Gemini API Key. Set it in your environment:
 
 Windows (PowerShell/CMD)
+```bash
 setx GEMINI_API_KEY "your_key_here"
+```
 
 Mac/Linux
+```bash
 export GEMINI_API_KEY="your_key_here"
+```
 
 ## 🛠️ Usage
  1. Stage your changes:

@@ -1,0 +1,12 @@
+# Python bytecode (the .pyc files you see)
+__pycache__/
+*.py[cod]
+
+# Distribution / Packaging (the .egg-info files you see)
+dist/
+build/
+*.egg-info/
+
+# Environments
+.venv/
+.env

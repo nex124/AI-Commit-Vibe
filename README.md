@@ -13,7 +13,9 @@ Instead of writing commit messages manually, let AI analyze your git diff and su
 - **Conventional Commit format**
 
 Example output:
+
     Suggested Commit Messages:
+    
         1. feat(cli): add AI-powered commit message generator
         2. refactor(core): extract commit prompt logic
         3. chore: initialize project structure

@@ -1,4 +1,4 @@
-# ai-commit-vibe 🚀
+# AI-Commit-Vibe 🚀
 
 A lightweight CLI tool that uses **Gemini 2.5 Flash** to generate concise **Conventional Commit** messages based on your staged changes.
 
